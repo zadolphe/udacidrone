@@ -6,8 +6,8 @@
 - run the executible: FCND-Sim_Windows_64-bit.exe
 - run the backyard flyer program
 - cd udacidrone/scripts  
-- python backyard_flyer.py - this makes the drone fly in a square
-- The PX4 version of every script can be deployed on real quadracopter using PX4 firmware. 
+- run any script python program using: python <script>.py For example, python backyard_flyer.py - this makes the drone fly in a square
+- The PX4 named version of every script can be deployed on a real quadracopter using PX4 firmware. 
  
 
 Welcome to the UdaciDrone API!
