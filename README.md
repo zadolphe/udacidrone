@@ -1,3 +1,14 @@
+##To run scripts to make quadracopter/drone fly in simulator:##
+- Make sure you have the proper dependcies installed including python 3.5 or higher and conda. See Udacidrone API documentation below for more information on installation.
+- In a directory, git clone https://github.com/zadolphe/udacidrone.git 
+- unzip windows(1).zip
+- cd windows(1)
+- run the executible: FCND-Sim_Windows_64-bit.exe
+- run the backyard flyer program
+- cd udacidrone/scripts  
+- python backyard_flyer.py - this makes the drone fly in a square
+- The PX4 version of every script can be deployed on real quadracopter using PX4 firmware. 
+ 
 
 Welcome to the UdaciDrone API!
 
