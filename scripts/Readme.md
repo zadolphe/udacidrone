@@ -1,1 +1,1 @@
-#these are scripts to run copter in simulator.
+These are scripts to run copter in simulator.
